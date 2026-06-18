@@ -1,0 +1,123 @@
+[
+  {
+    "id": "telecom",
+    "title": "Construction Material Supply & Procurement",
+    "description": "Sourcing and delivering essential building materials to construction sites efficiently and on time.",
+    "details": [
+      "Cement, sand, aggregates & on-demand materials",
+      "Quality steel reinforcement (rebar)",
+      "Construction chemicals, electrical & sanitary supplies",
+      "PVC, PPRC pipes, tiles & hardware",
+      "Timely delivery with efficient logistics",
+      "Bulk supply for all project types",
+      "Competitive pricing with assured quality",
+      "Complete one-stop material solution"
+    ],
+    "image": "/services/Construction.png"
+  },
+  {
+    "id": "tower",
+    "title": "Maintenance & Renovation Services",
+    "description": "Keeping your properties in peak condition through expert repairs, upgrades, and modern renovations tailored to every need.",
+    "details": [
+      "Interior & exterior painting (residential, commercial & institutional)",
+      "Waterproofing & leak protection solutions",
+      "Minor repairs, upgrades & finishing works",
+      "Full-scale renovation & remodeling projects",
+      "Routine maintenance & on-demand workmanship",
+      "Timely execution with minimal disruption",
+      "Cost-effective solutions with lasting results"
+    ],
+    "image": "/services/Maintenance.png"
+  },
+  {
+    "id": "fiber",
+    "title": "Manufacturing of Telecommunication Towers & Maintenance",
+    "description": "End-to-end fiber cable laying solutions with trenching, installation and network deployment with precision.",
+    "details": [
+      "Design and manufacturing of high-quality telecom towers",
+      "Built for durability, safety, and long-term performance",
+      "Repainting services for structural upkeep",
+      "Corrosion protection for extended lifespan",
+      "Structural repair and restoration work",
+      "Ensuring uninterrupted network reliability",
+      "Ongoing maintenance and technical support"
+    ],
+    "image": "/services/Manufacturing.png"
+  },
+  {
+    "id": "fibernetwork",
+    "title": "Optical Fiber Cable Laying & Maintenance",
+    "description": "Proactive fiber network maintenance ensuring optimal performance, quick fault resolution and long-term network stability.",
+    "details": [
+      "End-to-end fiber cable laying solutions",
+      "Trenching, installation & network deployment with precision",
+      "Maintenance services for optimal performance",
+      "Quick fault detection and resolution to reduce downtime",
+      "Ensuring long-term network stability through proactive upkeep"
+    ],
+    "image": "/services/Optical.png"
+  },
+  {
+    "id": "cctv",
+    "title": "CCTV, Access Control, Maintenance Procurement & Monitoring Systems",
+    "description": "Securing and monitoring your premises with advanced CCTV, access control, and smart procurement systems for seamless oversight and protection.",
+    "details": [
+      "Advanced CCTV surveillance for real-time monitoring",
+      "High-quality security fencing for strength and durability",
+      "Comprehensive perimeter security to prevent unauthorized access",
+      "Integrated detection, monitoring & rapid response systems",
+      "Customized security solutions for all site types",
+      "Reliable protection with 24/7 monitoring support",
+      "Cost-effective and scalable security systems",
+      "Ensuring complete safety and operational confidence"
+    ],
+    "image": "/services/CCTV.png"
+  },
+  {
+    "id": "access",
+    "title": "Site Safety & Fire Fighting Equipment",
+    "description": "Safeguarding lives and assets with industry-grade fire fighting equipment and comprehensive site safety solutions.",
+    "details": [
+      "Construction site safety equipment for hazard-free operations",
+      "Certified fire safety systems (extinguisher, alarms & protection systems)",
+      "Personal protective equipment (PPE) for workforce safety compliance",
+      "End-to-end safety solutions with installation, inspection & maintenance",
+      "Quick deployment for on-site safety readiness",
+      "Cost-effective safety solutions for all project types",
+      "Ensuring safe and compliant work environment"
+    ],
+    "image": "/services/Site.png"
+  },
+  {
+    "id": "procurement",
+    "title": "Procurement",
+    "description": "Complete procurement solutions for power, IT, surveillance and Audio & Visual (SMDs) equipment tailored to client specs and OEM standards.",
+    "details": [
+      "Enterprise power & energy solutions (UPS, batteries, PDUs, stabilizers & backup systems)",
+      "IT, computing & AI-ready infrastructure (desktops, laptops, servers, storage & networking)",
+      "Surveillance & access control systems (CCTV, ANPR, RFID & perimeter security devices)",
+      "Audio-visual & conferencing solutions (PA systems, LED displays, SMDs, video walls & digital signage)",
+      "End-to-end customized procurement as per client specs & OEM standards",
+      "Project-based sourcing for specialized technical equipment",
+      "Reliable supply chain with quality assurance",
+      "Complete procurement solutions for all industries"
+    ],
+    "image": "/services/Procurement.png"
+  },
+  {
+    "id": "construction",
+    "title": "Smart Infrastructure",
+    "description": "Building intelligent systems that connect technology and infrastructure for smarter, more efficient operations.",
+    "details": [
+      "Technology-enabled civil construction with ICT, power & monitoring integration",
+      "RFID-based access & mobility systems with ANPR, RFID & real-time reporting",
+      "Centralized surveillance & security infrastructure with command center integration",
+      "Smart energy & utility management with intelligent monitoring & backup systems",
+      "Automated control systems for improved efficiency and operations",
+      "Secure, scalable solution for modern infrastructure projects",
+      "End-to-end smart infrastructure deployment and support"
+    ],
+    "image": "/services/Smart.png"
+  }
+]
